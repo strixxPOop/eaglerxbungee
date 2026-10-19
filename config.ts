@@ -12,7 +12,7 @@ export const config: Config = {
     },
     server: {
         host: "THESIGMAS2.aternos.me",
-        port: 33614
+        port: 
     },
     security: { // provide path to key & cert if you want to enable encryption/secure websockets
         enabled: false,
